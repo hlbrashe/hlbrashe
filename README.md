@@ -2,7 +2,7 @@
 - 👀 I’m interested in artificial intelligence.
 - 🌱 I’m currently learning basic programming.
 - 💞️ I’m looking to collaborate on future pojects. 
-- 📫 How to reach me hlbrashe@yahoo.com
+- 📫 How to reach me heatherlbrasher@gmail.com
 
 <!---
 hlbrashe/hlbrashe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
